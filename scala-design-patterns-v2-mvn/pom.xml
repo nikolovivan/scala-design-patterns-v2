@@ -13,6 +13,7 @@
         <module>unification</module>
         <module>abstract-types</module>
         <module>aop</module>
+        <module>creational-design-patterns</module>
     </modules>
     <properties>
         <scala.version>2.12.6</scala.version>
