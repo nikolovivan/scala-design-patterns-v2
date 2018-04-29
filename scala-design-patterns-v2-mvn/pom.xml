@@ -19,6 +19,7 @@
         <module>deep-theory</module>
         <module>functional-design-patterns</module>
         <module>real-life-applications</module>
+        <module>job-scheduler</module>
     </modules>
     <properties>
         <scala.version>2.12.6</scala.version>
@@ -34,6 +35,8 @@
         <scalaz.version>7.2.20</scalaz.version>
         <scalacheck.version>1.13.4</scalacheck.version>
         <h2.version>1.4.196</h2.version>
+        <akka.version>2.5.11</akka.version>
+        <typesafe.config.version>1.3.2</typesafe.config.version>
     </properties>
 
     <dependencies>
