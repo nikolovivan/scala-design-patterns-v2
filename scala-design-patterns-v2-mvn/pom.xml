@@ -79,6 +79,9 @@
                 </executions>
                 <configuration>
                     <scalaVersion>${scala.version}</scalaVersion>
+                    <args>
+                        <arg>-deprecation</arg>
+                    </args>
                 </configuration>
             </plugin>
             <plugin>
