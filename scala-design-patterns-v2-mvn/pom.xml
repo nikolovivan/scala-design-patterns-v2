@@ -16,6 +16,7 @@
         <module>creational-design-patterns</module>
         <module>structural-design-patterns</module>
         <module>behavioral-design-patterns</module>
+        <module>deep-theory</module>
     </modules>
     <properties>
         <scala.version>2.12.6</scala.version>
