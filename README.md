@@ -19,7 +19,7 @@ execute the tests with Maven.
 
 There is a separate module for each topic/chapter covered in the book:
 1. Chapter 1: The Design Patterns Out There and Setting Up Your Environment
-   There is no code for this chapter. It provides the readers with some useful skeletons.
+   - There is no code for this chapter. It provides the readers with some useful skeletons.
 2. Chapter 2: Traits and Mixin Compositions
    - mvn module name [traits](scala-design-patterns-v2-mvn/traits)
 3. Chapter 3: Unification
