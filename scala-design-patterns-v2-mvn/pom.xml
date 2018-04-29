@@ -17,6 +17,7 @@
         <module>structural-design-patterns</module>
         <module>behavioral-design-patterns</module>
         <module>deep-theory</module>
+        <module>functional-design-patterns</module>
     </modules>
     <properties>
         <scala.version>2.12.6</scala.version>
@@ -29,6 +30,8 @@
         <slf4j.version>1.7.25</slf4j.version>
         <scalalogging.version>3.7.2</scalalogging.version>
         <scalacsv.version>1.3.5</scalacsv.version>
+        <scalaz.version>7.2.20</scalaz.version>
+        <h2.version>1.4.196</h2.version>
     </properties>
 
     <dependencies>
