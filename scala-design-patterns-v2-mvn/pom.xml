@@ -14,6 +14,7 @@
         <module>abstract-types</module>
         <module>aop</module>
         <module>creational-design-patterns</module>
+        <module>structural-design-patterns</module>
     </modules>
     <properties>
         <scala.version>2.12.6</scala.version>
@@ -21,6 +22,10 @@
         <mockito.version>1.10.19</mockito.version>
         <junit.version>4.12</junit.version>
         <json4s.jackson.version>3.6.0-M2</json4s.jackson.version>
+        <json4s.native.version>3.6.0-M2</json4s.native.version>
+        <commons.codec.version>1.11</commons.codec.version>
+        <slf4j.version>1.7.25</slf4j.version>
+        <scalalogging.version>3.7.2</scalalogging.version>
     </properties>
 
     <dependencies>
